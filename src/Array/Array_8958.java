@@ -8,8 +8,6 @@ public class Array_8958 {
         int a = sc.nextInt();
         String[] arr = new String[a];
         for(int i = 0; i<arr.length; i++){
-            int sum= 0;
-            int count=0;
             String abc = sc.next();
             arr[i] = abc;
         }
